@@ -9,8 +9,7 @@ Paris and Zürich. Work-authorised in Switzerland.
 
 **[Olympe](https://www.olympe-saas.com)** — Production SaaS for French wealth advisors.
 Turns a 20 to 45 minute client meeting into a summary, action items and a follow-up
-email. Next.js, TypeScript, Supabase Postgres with row-level security, Deepgram,
-Anthropic API, Stripe, Vercel with EU data residency. Founder and sole developer.
+email.
 
 ### Selected projects
 

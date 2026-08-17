@@ -19,7 +19,6 @@ Anthropic API, Stripe, Vercel with EU data residency. Founder and sole developer
 | [Monte Carlo: the gambler's fallacy](https://github.com/ElMammoth/monte-carlo-gamblers-fallacy) | JavaScript engine reproducing an online game's outcome generator to test round independence, then running staking strategies over thousands of rounds against a negative expected value |
 | [Personal finance iOS app](https://github.com/ElMammoth/personal-finance-ios) | Swift app for transaction categorisation with monthly and annual budget dashboards |
 | [LaTeX in InDesign](https://github.com/ElMammoth/latex-in-indesign) | Script rendering LaTeX equations inside InDesign so typeset maths stays editable in the layout |
-| [Portfolio](https://www.cyprienmetivier--robcis.me) | Personal site, TypeScript |
 
 ### Toolkit
 

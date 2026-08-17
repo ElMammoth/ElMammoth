@@ -21,10 +21,11 @@ email.
 
 ### Toolkit
 
-Advanced Excel (VBA, financial modelling) · Python · TypeScript / React / Next.js ·
-SQL and Postgres · Swift · n8n · InDesign, Illustrator, Photoshop
+Proficient: Advanced Excel (VBA macros, INDEX/MATCH, dynamic dashboards, financial modelling) · PowerPoint · Python · InDesign · Illustrator · Photoshop · Claude · Gemini
 
-FR native · EN fluent (C1) · DE beginner
+Working knowledge (AI-assisted development): TypeScript / React / Next.js · SQL & Postgres (Supabase, RLS, migrations) · Swift · REST API integration
+
+Languages: FR (native) · EN (fluent) · DE (beginner)
 
 ### Elsewhere
 

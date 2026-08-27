@@ -3,7 +3,7 @@
 BSc Market Finance at ESLSCA Paris. I work on wealth management problems from both
 sides: the financial modelling, and the software that carries it.
 
-Paris and Zürich. Work-authorised in Switzerland.
+Paris and Zürich.
 
 ### Building
 
@@ -21,7 +21,7 @@ email.
 
 ### Toolkit
 
-Proficient: Advanced Excel (VBA macros, INDEX/MATCH, dynamic dashboards, financial modelling) · PowerPoint · Python · InDesign · Illustrator · Photoshop · Claude · Microsoft Copilot
+Proficient: Advanced Excel (dynamic dashboards, financial modelling) · Microsoft Copilot · Claude · PowerPoint · Python · InDesign · Illustrator
 
 Working knowledge (AI-assisted development): TypeScript / React / Next.js · SQL & Postgres (Supabase, RLS, migrations) · Swift · REST API integration
 
@@ -29,6 +29,4 @@ Languages: FR (native) · EN (fluent) · DE (beginner)
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/métivier--robcis-cyprien/) ·
-[Portfolio](https://www.cyprienmetivier--robcis.me) ·
-[Instagram](https://www.instagram.com/cypwithacamera/)
+[LinkedIn](https://www.linkedin.com/in/métivier--robcis-cyprien/) · [Instagram](https://www.instagram.com/cypwithacamera/)

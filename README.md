@@ -21,7 +21,7 @@ email.
 
 ### Toolkit
 
-Proficient: Advanced Excel (VBA macros, INDEX/MATCH, dynamic dashboards, financial modelling) · PowerPoint · Python · InDesign · Illustrator · Photoshop · Claude · Gemini
+Proficient: Advanced Excel (VBA macros, INDEX/MATCH, dynamic dashboards, financial modelling) · PowerPoint · Python · InDesign · Illustrator · Photoshop · Claude · Microsoft Copilot
 
 Working knowledge (AI-assisted development): TypeScript / React / Next.js · SQL & Postgres (Supabase, RLS, migrations) · Swift · REST API integration
 

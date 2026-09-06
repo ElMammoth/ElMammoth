@@ -16,7 +16,7 @@ email.
 | Project | What it is |
 |---|---|
 | [LaTeX in InDesign](https://github.com/ElMammoth/latex-in-indesign) | Script rendering LaTeX equations inside InDesign so typeset maths stays editable in the layout |
-| [Scream](https://github.com/ElMammoth/scream) | Local, multilingual dictation app for macOS from the menu bar (similar to wisprflow) |
+| [Screamm](https://github.com/ElMammoth/screamm) | Local, multilingual dictation app for macOS from the menu bar (similar to wisprflow) |
 | [Personal finance iOS app](https://github.com/ElMammoth/personal-finance-ios) | Swift app for transaction categorisation with monthly and annual budget dashboards |
 | [Monte Carlo: the gambler's fallacy](https://github.com/ElMammoth/monte-carlo-gamblers-fallacy) | JavaScript engine reproducing an online game's outcome generator to test round independence, then running staking strategies over thousands of rounds against a negative expected value |
 

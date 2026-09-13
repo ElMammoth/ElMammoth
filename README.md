@@ -2,14 +2,6 @@
 
 BSc Market Finance at ESLSCA Paris. Looking for a junior role in Zurich, in software engineering, financial analysis/FP&A, or an early-stage startup.
 
-Paris and Zürich.
-
-### Building
-
-**[Olympe](https://www.olympe-saas.com)** — Production SaaS for French wealth advisors.
-Turns a 20 to 45 minute client meeting into a summary, action items and a follow-up
-email.
-
 ### Selected projects
 
 | Project | What it is |
@@ -21,7 +13,7 @@ email.
 
 ### Toolkit
 
-Proficient: Advanced Excel (dynamic dashboards, financial modelling) · Microsoft Copilot · Claude · PowerPoint · Python · InDesign · Illustrator
+Proficient: Microsoft Excel (VBA, PowerQuery), PowerPoint, PowerAutomate, Azure · Python · SQL · n8n automation · Adobe InDesign, Illustrator, Photoshop
 
 Working knowledge (AI-assisted development): TypeScript / React / Next.js · SQL & Postgres (Supabase, RLS, migrations) · Swift · REST API integration
 

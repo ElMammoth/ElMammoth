@@ -1,7 +1,6 @@
 ## Cyprien Métivier--Robcis
 
-BSc Market Finance at ESLSCA Paris. I work on wealth management problems from both
-sides: the financial modelling, and the software that carries it.
+BSc Market Finance at ESLSCA Paris. Looking for a junior role in Zurich, in software engineering, financial analysis/FP&A, or an early-stage startup.
 
 Paris and Zürich.
 

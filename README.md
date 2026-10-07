@@ -23,4 +23,5 @@ Languages: FR (native) · EN (fluent) · DE (beginner)
 
 [LinkedIn](https://www.linkedin.com/in/métivier--robcis-cyprien/) · [Instagram](https://www.instagram.com/cypwithacamera/)
 
-[Cyprien_Metivier--Robcis_CV.pdf](https://github.com/user-attachments/files/32158427/Cyprien_Metivier--Robcis_CV.pdf)
+[cyprien_metivier--robcis_resume.pdf](https://github.com/user-attachments/files/33161536/cyprien_metivier--robcis_resume.pdf)
+

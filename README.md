@@ -1,3 +1,5 @@
+<img src="linkedin-banner.png" alt="Profile Banner" width="100%" />
+
 ## Cyprien Métivier--Robcis
 
 BSc Market Finance at ESLSCA Paris. Looking for a junior role in Zurich, in software engineering, financial analysis/FP&A, or an early-stage startup.
